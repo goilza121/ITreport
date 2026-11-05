@@ -1,0 +1,6 @@
+{
+  "name": "Daily IT Work Report Dashboard",
+  "description": "ระบบบันทึกและแสดงผลรายงานการปฏิบัติงานไอทีประจำวัน พร้อมเชื่อมต่อ Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
